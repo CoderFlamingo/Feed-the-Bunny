@@ -81,7 +81,7 @@ function setup()
 
   //btn 1
   button1 = createImg('cut_btn.png');
-  button1.position(20,30);
+  button1.position(10,30);
   button1.size(50,50);
   button1.mouseClicked(drop);
 
